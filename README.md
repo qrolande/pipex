@@ -1,2 +1,3 @@
-# pipex_02
+# pipex
 
+Project explaining how "pipes" work in C
