@@ -1,3 +1,3 @@
 # pipex
 
-Project explaining how "pipes" work in C
+Project explaining how "pipes" work in UNIX
